@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="tr" >
+<head>
+  <meta charset="UTF-8">
+  <title>Backbone Tetris</title>
+  <link rel="stylesheet" href="css/normalize.min.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Lato'><link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<h1>Backbone Tetris</h1>
+<p>Backbone.js'de Tetris'in uygulanması</p>
+<div id="controls">
+  <button id="pause">Durdur (p)</button>
+  <button id="mute">Sessize Al (m)</button>
+  <button id="new_game">Yeni oyun (n)</button>
+</div>
+<div id="board">
+  <canvas width="300" height="500"></canvas>
+  <div id="gridContainer">
+    <div class="grid"></div>
+  </div>
+  <div id="message"></div>
+</div>
+<!-- partial -->
+  <script src='js/jquery.min.js'></script>
+<script src='js/underscore-min.js'></script>
+<script src='js/backbone-min.js'></script>
+<script src='js/jsfxr.js'></script>
+<script  src="js/script.js"></script>
+
+</body>
+</html>
