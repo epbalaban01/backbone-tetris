@@ -23,5 +23,5 @@ Daha kolay bir şekilde backbone tetris oyunu yapılmıştır. İleri gelecekte 
 
 <hr/>
 
-> Lisans bilgisi tüm kod, GPL Sürüm 3 lisansı altındadır. Lisansın kullanım koşulları için LİSANS dosyasını okuyun..
+> Lisans bilgisi tüm kod, MIT lisansı altındadır. Lisansın kullanım koşulları için LİSANS dosyasını okuyun..
 
