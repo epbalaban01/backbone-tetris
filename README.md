@@ -13,6 +13,12 @@ Daha kolay bir şekilde backbone tetris oyunu yapılmıştır. İleri gelecekte 
 * Kolayca oynanabilir şekilde tasarlanmıştır.
 * Sağdaki kodlara göre nereden nereye bağlı olduğunu konumlama şekilde tasarlanmıştır.
 
+| <b>Ekran Görüntüleri</b> |
+|---|
+| ![1](https://github.com/epbalaban01/Sistem_Bilgileri/assets/42430554/780b269b-30fe-4bf8-9247-03f735a98a97) |
+| <p align="center"><b>Arayüz Tasarımı</b></p> |
+| ![2](https://github.com/epbalaban01/backbone-tetris/assets/42430554/40d7f818-5eb9-48bd-893f-930efb9921cf) |
+| <p align="center"><b></b></p> |
 
 
 <hr/>
