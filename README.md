@@ -1,5 +1,4 @@
-# backbone-tetris
-Backbone'den Tetris Oyunu
+# Backbone'den Tetris Oyunu
 
 <p align="center"><img src="https://socialify.git.ci/epbalaban01/backbone-tetris/image?name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
 
